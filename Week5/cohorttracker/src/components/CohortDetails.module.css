@@ -1,0 +1,35 @@
+.box {
+    width: 250px;
+    display: inline-block;
+    margin: 10px;
+    padding: 15px 20px;
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+    vertical-align: top;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.box h3 {
+    margin: 0 0 18px 0;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Calibri, Arial, sans-serif;
+}
+
+dt {
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    font-family: Calibri, Arial, sans-serif;
+}
+
+dd {
+    margin-left: 35px;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 15px;
+    color: #444;
+    font-family: Calibri, Arial, sans-serif;
+}
